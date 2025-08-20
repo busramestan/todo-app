@@ -51,4 +51,4 @@ src/
 Ana sayfa, görev ekleme ve raporlar bölümü modern ve sade bir arayüze sahiptir.
 ![alt text](src/assets/image1.png)
 ![alt text](src/assets/image2.png)
-![alt text](src/assets/image2.png)
+![alt text](src/assets/image3.png)
