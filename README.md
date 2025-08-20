@@ -49,6 +49,6 @@ src/
 ## Ekran Görüntüleri
 
 Ana sayfa, görev ekleme ve raporlar bölümü modern ve sade bir arayüze sahiptir.
-![alt text](assets/image1.png)
-![alt text](assets/image2.png)
-![alt text](assets/image3.png)
+![alt text](src/assets/image1.png)
+![alt text](src/assets/image2.png)
+![alt text](src/assets/image2.png)
